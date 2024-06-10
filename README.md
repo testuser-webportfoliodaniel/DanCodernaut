@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hey, I'm Daniel 👋🏼
 
-<!--
-**DanCodernaut/DanCodernaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 21-year-old aspiring full-stack developer with a keen interest in the tech world. I've been working on WordPress websites, but my ultimate goal is to become a well-rounded programmer. Follow my journey on GitHub to see my progress and learn more about me.
 
-Here are some ideas to get you started:
+- Check out my [Portfolio](https://daniel-webportfolio.hu).
+- Use my favorite [theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) in vscode.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Skillset:
+
+**Frontend:** `HTML`, `CSS`, `JavaScript (React, Angular, Vue.js)`
+
+**Version Control:** `Git`
+
+**Backend Development:** `Python (Django)`, `PHP (Laravel)`, `Node.js (Express.js)`
+
+**Testing:** `Jest, Mocha, Cypress`
+
+**Others:** `SQL (MySQL, PostgreSQL)`
+
+
+## ✨ Fun Facts:
+[A few random fun facts about you]
+
+## 📫 Contact:
+For quicker response, DM me on LinkedIn.
